@@ -4,4 +4,4 @@ This is a basic website designed to incorperate skills that I have learned and d
 Time log time spent developing website - 
 1/13/21 - 2hrs
 
-Sights used to program - https://jsfiddle.net/
+Sites used to program - https://jsfiddle.net/
