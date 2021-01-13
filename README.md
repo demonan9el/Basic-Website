@@ -8,9 +8,13 @@ Time log time spent developing website -
 Sites used to program and learn-
 
 https://jsfiddle.net/
+
 w3schools.com
+
 https://www.gatsbyjs.com
+
 https://www.kentico.com/
+
 https://kontent.ai/
 
 
