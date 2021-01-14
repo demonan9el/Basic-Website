@@ -1,1 +1,24 @@
+      .lNavigation {
+        list-style-type: none;
+        margin: 10;
+        padding: 0;
 
+      }
+      .lCookieList {
+        border: 1px solid black;
+        font-size: 100%
+      }
+
+      .bCompass {
+        background-color: red;
+        border: 1px solid white;
+        color: Blue;
+        text-align: center;
+      }
+
+      .firstWords {
+        background-color: blue;
+        border: 1px solid green;
+        color: yellow;
+        text-align: center;
+      }
